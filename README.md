@@ -1,7 +1,7 @@
 # GoSchool
 This repository is to store the development codes shared during the Course for Go Basics to facilitate better understanding of the discussed solutions.
 
-All rights reserved. No part of this document may be reproduced or transmitted in any form or by any means, electronic or mechanical, for any purpose, without the express written permission of the author.
+All rights reserved. No part of this repository may be reproduced or transmitted in any form or by any means, electronic or mechanical, for any purpose, without the express written permission of the author.
 
 All references and source used are for the sole purposes of education.
 The repository contents are created solely for educational purposes with no intention of infringement of any copyright, trademark and patents.
