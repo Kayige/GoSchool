@@ -1,4 +1,4 @@
-# GoSchool
+# GS-001
 This repository is to store the codes shared to facilitate better understanding of the discussed topics.
 
 All rights reserved. No part of this repository may be reproduced or transmitted in any form or by any means, electronic or mechanical, for any purpose, without the express written permission of the author.
