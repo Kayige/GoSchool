@@ -1,4 +1,3 @@
-# GS-001
 This repository is to store the codes shared to facilitate better understanding of the discussed topics.
 
 All references and source used are for the sole purposes of education.
